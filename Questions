@@ -1,0 +1,10 @@
+# Problem
+
+Given a string swap the last two characters of the string.
+Hint: str.charAt(i) give the character at i+1th position.
+""=>"","A"=>"A","AB"="BA","RAIN"=>"RANI"
+
+Remove "A" if it is present in first 2 characters of the string.
+If 'A' is present after first two characters, it should not be removed.
+"ABCD" => "BCD", "AACD"=>"CD", "BACD"=>"BCD","BBAA"=>"BBAA","AABAA"=>"BAA".
+
